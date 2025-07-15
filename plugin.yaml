@@ -1,14 +1,14 @@
 name: "Sway Detection"
 overview: "This plugin will suggest lowering your steering smoothness if your truck sways too much."
 description: | 
-  # I only recommend enabling this when you are using ETS2LA for the first time so you can fine tune the Steering Smoothness setting.
+  ## I only recommend enabling this when you are using ETS2LA for the first time so you can fine tune the Steering Smoothness setting.
 
-  ## Where can you find the Smoothness setting?
+  Where can you find the Smoothness setting?
     Settings > Map > Steering
 
   See picture below for the notification example.
 
-  ![default](Images/example.png)
+  ![default](https://github.com/Playzzero97/Sway-Detection/blob/main/Images/example.png?raw=true)
 image_url: ""
 version: "1.0.0"
 author: "Playzzero97"
